@@ -1,0 +1,107 @@
+Required Data -----------------
+[
+  {
+    "expTypes": 0,
+    "currentEmployee": true,
+    "companyName": "string",
+    "jobTitle": "string",
+    "jobDescription": "string",
+    "startDate": "2024-02-01T16:00:35.067Z",
+    "endDate": "2024-02-01T16:00:35.067Z",
+    "salary": 0,
+    "yearOfExperience": 0,
+    "skillId": [
+      0
+    ],
+    "salaryTypeId": 0
+  }
+]
+
+
+[
+    {
+        "expTypeId": 1,
+        "expTypeName": "Fresher",
+        "currentEmployee": true,
+        "companyName": "chetu india",
+        "jobTitle": "frontend developer",
+        "jobDescription": "frefrf",
+        "startDate": "2024-01-31T00:00:00",
+        "endDate": "2024-02-03T00:00:00",
+        "salary": 100000,
+        "skills": [
+            {
+                "id": 5,
+                "name": "React-Native"
+            },
+            {
+                "id": 7,
+                "name": "Urdu"
+            },
+            {
+                "id": 8,
+                "name": "japanese"
+            },
+            {
+                "id": 9,
+                "name": "Canadian"
+            }
+        ],
+        "yearOfExperience": 1,
+        "salaryTypeId": 2,
+        "salaryTypeName": "Monthly",
+        "id": 1
+    },
+    {
+        "expTypeId": 1,
+        "expTypeName": "Fresher",
+        "currentEmployee": true,
+        "companyName": "aaaaaa",
+        "jobTitle": "frontend developer",
+        "jobDescription": "frd4erfd",
+        "startDate": "2024-02-08T00:00:00",
+        "endDate": "2024-02-02T00:00:00",
+        "salary": 21,
+        "skills": [
+            {
+                "id": 5,
+                "name": "React-Native"
+            },
+            {
+                "id": 7,
+                "name": "Urdu"
+            },
+            {
+                "id": 8,
+                "name": "japanese"
+            },
+            {
+                "id": 9,
+                "name": "Canadian"
+            }
+        ],
+        "yearOfExperience": 1,
+        "salaryTypeId": 2,
+        "salaryTypeName": "Monthly",
+        "id": 2
+    },
+    {
+        "expTypes": 1,
+        "currentEmployee": true,
+        "companyName": "cvfbcb",
+        "yearOfExperience": 2,
+        "jobTitle": "dsfgsdfsdf",
+        "startDate": "2024-02-21",
+        "endDate": "2024-02-15",
+        "skillId": [
+            5,
+            3,
+            4,
+            7
+        ],
+        "jobDescription": "cfgxdfgdsfg",
+        "salaryTypeId": 2,
+        "salary": 454564,
+        "id": 3
+    }
+]
